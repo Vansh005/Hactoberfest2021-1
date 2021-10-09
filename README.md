@@ -6,7 +6,7 @@
 
 
 ***
-## Rules To Contribute To This Repo
+## Rules To Contribute To This Repositary
 
 -   Use any language.
 -   C, C++, JAVA, Data Structure and Algorithms, HTML, CSS, Android Projects.
@@ -17,7 +17,7 @@
 
 ## Steps For Contribution
 
-    1. Fork this repo
+    1. Fork this repositaary
     2. Star this repo and follow the master
     3. Add a file
     4. commit the code
